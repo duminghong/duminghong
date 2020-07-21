@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div>ohhhhhhhhhhhhhhhhhhhhhhhhhhhhh</div>
+<div style="color:red">ohhhhhhhhhhhhhhhhhhhhhhhhhhhhh</div>
 <!--
 **duminghong/duminghong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
