@@ -1,6 +1,4 @@
-![duminghong](https://user-images.githubusercontent.com/14065828/123237995-b94daa80-d510-11eb-9e77-b50820c31912.png)
 
-<!--
                                           ........                                                 
                                       ....,/ooo\`....                                              
                                       ...OOOOOoo\O`..                                              
@@ -64,8 +62,7 @@
                                    .=@@@@@@@@@@@@@@@@@@@@@OOOOOOOOOOOooOoOoOO^ .                   
                                    .=@@@@@@@@@@@@@@@@@@@OO@OOOOOOOOOooOOOOOOO^                     
                 
-
--->
+![duminghong](https://user-images.githubusercontent.com/14065828/123237995-b94daa80-d510-11eb-9e77-b50820c31912.png)
 <!--
 **duminghong/duminghong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
